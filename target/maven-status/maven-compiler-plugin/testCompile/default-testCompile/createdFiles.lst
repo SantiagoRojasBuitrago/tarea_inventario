@@ -1,0 +1,8 @@
+com/store/inventory/InventoryServiceTest$CategoryAndExpirationTests.class
+com/store/inventory/InventoryServiceTest$StockAlertTests$AlertEvent.class
+com/store/inventory/InventoryServiceTest$ValidationTests.class
+com/store/inventory/InventoryServiceTest$IdempotencyTests.class
+com/store/inventory/InventoryServiceTest$MutableTestClock.class
+com/store/inventory/InventoryServiceTest$StockAlertTests.class
+com/store/inventory/InventoryServiceTest$ConcurrencyTests.class
+com/store/inventory/InventoryServiceTest.class

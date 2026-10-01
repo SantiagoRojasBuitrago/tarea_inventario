@@ -1,0 +1,11 @@
+/Users/santiagobuitragorojas/Downloads/tarea-inventario/src/main/java/com/store/inventory/CategoryPolicy.java
+/Users/santiagobuitragorojas/Downloads/tarea-inventario/src/main/java/com/store/inventory/DefaultInventoryService.java
+/Users/santiagobuitragorojas/Downloads/tarea-inventario/src/main/java/com/store/inventory/InternalReservation.java
+/Users/santiagobuitragorojas/Downloads/tarea-inventario/src/main/java/com/store/inventory/Inventory.java
+/Users/santiagobuitragorojas/Downloads/tarea-inventario/src/main/java/com/store/inventory/Product.java
+/Users/santiagobuitragorojas/Downloads/tarea-inventario/src/main/java/com/store/inventory/api/InsufficientStockException.java
+/Users/santiagobuitragorojas/Downloads/tarea-inventario/src/main/java/com/store/inventory/api/InventoryService.java
+/Users/santiagobuitragorojas/Downloads/tarea-inventario/src/main/java/com/store/inventory/api/OrderLimitExceededException.java
+/Users/santiagobuitragorojas/Downloads/tarea-inventario/src/main/java/com/store/inventory/api/ProductCategory.java
+/Users/santiagobuitragorojas/Downloads/tarea-inventario/src/main/java/com/store/inventory/api/Reservation.java
+/Users/santiagobuitragorojas/Downloads/tarea-inventario/src/main/java/com/store/inventory/api/StockAlertListener.java

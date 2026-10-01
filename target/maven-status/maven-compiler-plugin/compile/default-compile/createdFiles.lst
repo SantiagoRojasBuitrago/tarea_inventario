@@ -1,0 +1,12 @@
+com/store/inventory/InternalReservation.class
+com/store/inventory/DefaultInventoryService.class
+com/store/inventory/CategoryPolicy.class
+com/store/inventory/api/ProductCategory.class
+com/store/inventory/api/StockAlertListener.class
+com/store/inventory/api/InsufficientStockException.class
+com/store/inventory/InternalReservation$Status.class
+com/store/inventory/Product.class
+com/store/inventory/api/InventoryService.class
+com/store/inventory/api/Reservation.class
+com/store/inventory/Inventory.class
+com/store/inventory/api/OrderLimitExceededException.class
